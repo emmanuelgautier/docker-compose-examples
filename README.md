@@ -8,6 +8,7 @@ This repository contains Docker Compose examples for various services.
 - [n8n](n8n/README.md)
 - [Odoo](odoo/README.md)
 - [PrestaShop](prestashop/README.md)
+- [RabbitMQ](rabbitmq/README.md)
 - [WordPress](wordpress/README.md)
 
 ## Contributors
